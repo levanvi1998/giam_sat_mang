@@ -1,4 +1,5 @@
 Xây dựng công cụ thu thập thông tin session sử dụng thư viện libpcap
+
 **1. Cài đặt:**
   - Yêu cầu 
     + Thư viện libpcap và trình biên dịch ngôn ngữ C (gcc):     sudo apt-get install libpcap-dev gcc
@@ -8,6 +9,7 @@ Xây dựng công cụ thu thập thông tin session sử dụng thư viện lib
     + gcc gsm.c -lpcap -o gsm
     + sudo./gsm
   ![Screenshot from 2020-07-02 22-31-28](https://user-images.githubusercontent.com/36982693/86378426-da8c0a00-bcb3-11ea-80d7-fdef5ae2584f.png)
+  
 **2. Sử dụng:**
   - Nhập số thứ tự của card mạng cần thu thập thông tin.
   
