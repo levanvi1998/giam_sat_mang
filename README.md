@@ -7,7 +7,7 @@ Xây dựng công cụ thu thập thông tin session sử dụng thư viện lib
     + git clone https://github.com/levanvi1998/giam_sat_mang.git
     + cd giam_sat_mang
     + gcc gsm.c -lpcap -o gsm
-    + sudo./gsm
+    + sudo ./gsm
   ![Screenshot from 2020-07-02 22-31-28](https://user-images.githubusercontent.com/36982693/86378426-da8c0a00-bcb3-11ea-80d7-fdef5ae2584f.png)
   
 **2. Sử dụng:**
