@@ -18,5 +18,5 @@ Xây dựng công cụ thu thập thông tin session sử dụng thư viện lib
       + log.txt         thống kê thông tin các gói tin thu thập.
       + session.txt     thông kê gói tin TCP : SYN, SYN-ACK, ACK
       ![Screenshot from 2020-07-02 22-39-19](https://user-images.githubusercontent.com/36982693/86379363-f3e18600-bcb4-11ea-903f-a8469497873c.png)
-      ![Screenshot from 2020-07-02 22-44-49](https://user-images.githubusercontent.com/36982693/86380083-e5e03500-bcb5-11ea-8b6b-f7a990aff6fe.png)
+      ![Screenshot from 2020-07-03 15-15-35](https://user-images.githubusercontent.com/36982693/86447864-25536380-bd40-11ea-9dfe-906b1cfa5738.png)
       ![Screenshot from 2020-07-02 22-46-12](https://user-images.githubusercontent.com/36982693/86380095-e7a9f880-bcb5-11ea-8351-31b2710b15c5.png)
